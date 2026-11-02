@@ -54,8 +54,11 @@ Mi objetivo es diseñar soluciones que integren creatividad, análisis de datos 
 | [**Detección de fraude**](https://github.com/c4r0l13/fraud-detection) | LightGBM, MLflow | Umbral de alertas elegido por costo: 88% menos costo que sin filtro |
 | [**Volatilidad y VaR del USD/MXN**](https://github.com/c4r0l13/usdmxn-volatility-var) | GARCH, pruebas estadísticas | 16 años de backtesting; solo un método de VaR pasa las pruebas regulatorias |
 | [**Detección de fallas en procesos químicos**](https://github.com/c4r0l13/tep-fault-detection) | PCA, LightGBM, control estadístico | Fallas detectadas con 0.3% de falsas alarmas y causa raíz identificada |
+| [**Calidad del aire en CDMX**](https://github.com/c4r0l13/cdmx-air-quality-forecasting) | SQL, Ridge, LightGBM | Pronóstico de PM2.5 y ozono a un día; alerta de días con mala calidad del aire con ROC-AUC 0.90 |
+| [**Enfermedades en hojas**](https://github.com/c4r0l13/plant-disease-detection) | TensorFlow, FastAPI, Docker | 38 clases con 94% de exactitud y una auditoría que muestra cuándo el modelo no generaliza |
+| [**Adopción de perros**](https://github.com/c4r0l13/dog-adoption-analysis) | Análisis de supervivencia, LightGBM | 9,750 perros de un refugio real: qué pasa con ellos y cuáles necesitan apoyo desde que llegan |
 
-Mis proyectos anteriores (calidad del aire, nacimientos en CDMX, detección de enfermedades en plantas y más) están en mi cuenta anterior: [github.com/caro1ie](https://github.com/caro1ie).
+Los últimos tres son versiones mejoradas de proyectos de mi cuenta anterior, [github.com/caro1ie](https://github.com/caro1ie), con datos reales, pruebas y CI.
 
 ---
 
