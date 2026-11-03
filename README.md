@@ -3,6 +3,11 @@
   <img src="assets/header-light.svg" alt="Carolina Lievanos: científica de datos, IA generativa y machine learning" width="100%">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/ticker-dark.svg">
+  <img src="assets/ticker-light.svg" alt="Temas: agentes, evaluación de LLMs, laboratorios autónomos, RAG, MLOps, series de tiempo" width="100%">
+</picture>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/lievanosiq/"><img src="https://img.shields.io/badge/LinkedIn-lievanosiq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="#-proyectos"><img src="https://img.shields.io/badge/Proyectos-12-2dd4bf?style=for-the-badge&logo=github&logoColor=white" alt="12 proyectos"></a>
@@ -52,6 +57,13 @@ Cada proyecto tiene datos reales o públicos, pruebas automáticas, CI y un READ
 <a href="https://github.com/c4r0l13/dog-adoption-analysis"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-dog-adoption-analysis-dark.svg"><img src="assets/card-dog-adoption-analysis-light.svg" alt="Adopción de perros" width="49%"></picture></a>
 
 <sub>Calidad del aire, enfermedades en hojas y adopción de perros son versiones mejoradas de proyectos de mi cuenta anterior, <a href="https://github.com/caro1ie">caro1ie</a>.</sub>
+
+## 🗺️ Mapa de proyectos
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/matrix-dark.svg">
+  <img src="assets/matrix-light.svg" alt="Matriz de proyectos y técnicas: qué técnica usa cada proyecto" width="100%">
+</picture>
 
 ## 🧭 Trayectoria
 
