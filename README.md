@@ -48,6 +48,9 @@ Mi objetivo es diseñar soluciones que integren creatividad, análisis de datos 
 
 | 🌿 Proyecto | 🛠️ Tecnologías Utilizadas | 🌍 Impacto |
 |---|---|---|
+| [**Descubrimiento de catalizadores para CO₂**](https://github.com/c4r0l13/co2-catalyst-discovery) | Aprendizaje activo, DFT, scikit-learn | 179 catalizadores reales: un laboratorio autónomo simulado encuentra 73% de los mejores en 60 pruebas, contra 31% al azar |
+| [**Copiloto de reportes de laboratorio**](https://github.com/c4r0l13/lab-report-copilot) | Claude, extracción de PDF, reglas LIMS | De PDF a registro LIMS validado; sus reglas detectan 82% de los errores de transcripción sin falsas alarmas |
+| [**Evaluación de un agente de pagos**](https://github.com/c4r0l13/payments-agent-eval) | Agentes con herramientas, pass^k | 17 escenarios con clientes simulados, ingeniería social e inyección de instrucciones |
 | [**RAG financiero evaluado**](https://github.com/c4r0l13/financial-rag-eval) | Python, BM25/LSA, Claude/OpenAI | Preguntas sobre 84 reportes de la SEC; la evidencia correcta en el top 5 pasa de 13% a 63% |
 | [**Credit scoring explicable y justo**](https://github.com/c4r0l13/credit-risk-scorecard) | LightGBM, scikit-learn, SHAP | Aprueba 5 solicitantes más de cada 100 con el mismo riesgo, con auditoría de equidad |
 | [**API de riesgo de crédito**](https://github.com/c4r0l13/credit-risk-api) | FastAPI, Docker, GitHub Actions | Modelo en producción con monitoreo de drift y controles de calidad en CI |
@@ -58,7 +61,7 @@ Mi objetivo es diseñar soluciones que integren creatividad, análisis de datos 
 | [**Enfermedades en hojas**](https://github.com/c4r0l13/plant-disease-detection) | TensorFlow, FastAPI, Docker | 38 clases con 94% de exactitud y una auditoría que muestra cuándo el modelo no generaliza |
 | [**Adopción de perros**](https://github.com/c4r0l13/dog-adoption-analysis) | Análisis de supervivencia, LightGBM | 9,750 perros de un refugio real: qué pasa con ellos y cuáles necesitan apoyo desde que llegan |
 
-Los últimos tres son versiones mejoradas de proyectos de mi cuenta anterior, [github.com/caro1ie](https://github.com/caro1ie), con datos reales, pruebas y CI.
+Calidad del aire, enfermedades en hojas y adopción de perros son versiones mejoradas de proyectos de mi cuenta anterior, [github.com/caro1ie](https://github.com/caro1ie), con datos reales, pruebas y CI.
 
 ---
 
